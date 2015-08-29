@@ -1,0 +1,47 @@
+{
+  "name": "jquery-param",
+  "description": "A function that is equivalent of jQuery.param",
+  "version": "0.1.2",
+  "main": "jquery-param.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "compile",
+    "node_modules",
+    "test",
+    "*.json",
+    "*.yml"
+  ],
+  "keywords": [
+    "jquery",
+    "param",
+    "equivalent",
+    "jquery.param",
+    "serialize",
+    "post"
+  ],
+  "authors": [
+    "knowledgecode <knowledgecode@gmail.com>"
+  ],
+  "homepage": "https://github.com/knowledgecode/jquery-param",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:knowledgecode/jquery-param.git"
+  },
+  "_release": "0.1.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.2",
+    "commit": "7ed55dec7ff8d6c950f4e314fdecab855b9df76b"
+  },
+  "_source": "git://github.com/knowledgecode/jquery-param.git",
+  "_target": "~0.1.2",
+  "_originalSource": "jquery-param",
+  "_direct": true
+}

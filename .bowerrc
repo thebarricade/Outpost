@@ -1,0 +1,5 @@
+{
+  "directory": "outpost/lib/",
+  "analytics": false,
+  "timeout": 120000
+}

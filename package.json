@@ -1,0 +1,24 @@
+{
+  "name": "Outpost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thebarricade/Outpost.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thebarricade/Outpost/issues"
+  },
+  "homepage": "https://github.com/thebarricade/Outpost",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-less": "^3.0.3",
+    "gulp-minify-css": "^1.2.1"
+  }
+}
